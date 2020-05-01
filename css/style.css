@@ -52,7 +52,7 @@ ul {
 }
 
 body {
-    background-image: url('../hawaii.JPG');
+    background-image: url("../hawaii.JPG");
     background-size: cover;
 }
 

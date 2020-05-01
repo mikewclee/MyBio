@@ -1,0 +1,65 @@
+header {
+    background-color:black;
+    padding: 5px;
+    text-align: center;
+    color:white;
+}
+
+h2{
+    margin: 10px;
+}
+
+.maincontainer{
+    width: 1024px;
+    height: 80px;
+    margin: 150px auto;
+    margin-bottom: 0;
+    background-color: gray;
+}
+
+.bio-image {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1024px;
+    margin: auto;
+}
+
+#main-bio{
+    float: left;
+    width:60%;
+    background-color:lightgray;
+    margin: auto;
+    }
+
+#contact-info{
+    float: left;
+    width: 40%;
+    background-color:lightgray;
+    margin: auto;
+}
+
+ul {
+    background-color:lightgray;
+    height:198px;
+    margin-right: 5px;
+    
+}
+
+body {
+    background-image: url('../hawaii.JPG');
+    background-size: cover;
+}
+
+
+.background{
+    background-image: url("../hawaii.JPG");
+    background-position: center;
+    background-size: cover;
+
+}
